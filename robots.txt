@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bigker22.github.io/pureorganic/sitemap.xml
