@@ -1,0 +1,7 @@
+{
+  "name": "pureorganic-orders",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Pure Organic – หน้าจัดการออเดอร์และใบเสนอราคา (Vercel)",
+  "engines": { "node": ">=18" }
+}
